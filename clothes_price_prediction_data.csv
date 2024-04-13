@@ -1,0 +1,1001 @@
+Brand,Category,Color,Size,Material,Price
+New Balance,Dress,White,XS,Nylon,182
+New Balance,Jeans,Black,XS,Silk,57
+Under Armour,Dress,Red,M,Wool,127
+Nike,Shoes,Green,M,Cotton,77
+Adidas,Sweater,White,M,Nylon,113
+Reebok,Jacket,Red,XL,Nylon,19
+Puma,Jacket,Red,XXL,Polyester,31
+Adidas,Dress,Red,XS,Denim,46
+Reebok,Dress,Black,S,Wool,97
+Adidas,Jeans,Yellow,L,Wool,80
+Nike,Jacket,White,XL,Silk,98
+Puma,Jacket,White,XL,Silk,150
+Under Armour,Jacket,White,S,Nylon,68
+Under Armour,T-shirt,Blue,XL,Polyester,49
+New Balance,Jacket,Green,S,Nylon,97
+Under Armour,Jacket,Green,XXL,Silk,184
+New Balance,Jeans,Red,S,Cotton,98
+Reebok,Shoes,Blue,XS,Polyester,91
+Adidas,Jeans,Yellow,XL,Denim,175
+Puma,Shoes,Blue,XL,Wool,35
+Puma,Sweater,Blue,L,Cotton,87
+New Balance,Jeans,Green,S,Cotton,82
+Reebok,Jacket,Black,L,Denim,19
+Puma,Jacket,Red,XXL,Wool,158
+Puma,Jacket,Black,L,Denim,125
+Adidas,Jeans,White,XXL,Nylon,89
+Adidas,Dress,Green,L,Polyester,185
+New Balance,Shoes,Blue,M,Cotton,92
+Adidas,T-shirt,Red,XS,Denim,109
+Reebok,Sweater,Yellow,S,Denim,187
+New Balance,Dress,Yellow,XL,Nylon,39
+Reebok,T-shirt,Blue,M,Wool,157
+Reebok,Jeans,Black,M,Nylon,157
+Puma,Shoes,Black,M,Cotton,152
+Under Armour,Sweater,Red,XL,Polyester,177
+Puma,Sweater,White,M,Polyester,42
+Adidas,Jeans,Green,M,Wool,19
+Under Armour,Shoes,Black,XL,Nylon,195
+Nike,Dress,Yellow,XS,Silk,137
+Under Armour,T-shirt,Yellow,XXL,Polyester,42
+Adidas,Jacket,Yellow,M,Silk,41
+Adidas,Shoes,White,S,Nylon,161
+Adidas,Jacket,Black,XS,Nylon,173
+New Balance,Shoes,Blue,XL,Silk,124
+Adidas,T-shirt,Black,XS,Wool,193
+Nike,Jacket,Black,XS,Silk,38
+New Balance,Dress,Red,L,Cotton,44
+Under Armour,Shoes,Green,XL,Silk,138
+Nike,Jeans,White,XS,Silk,138
+Puma,Shoes,Black,XL,Wool,174
+Under Armour,Jacket,Black,XXL,Cotton,63
+Puma,Jeans,Green,M,Nylon,143
+Puma,Shoes,Yellow,XL,Cotton,48
+New Balance,Jacket,White,XS,Silk,27
+Puma,Jacket,Green,XL,Denim,89
+New Balance,Sweater,Black,L,Nylon,142
+Adidas,Jacket,Blue,XXL,Wool,115
+Under Armour,Sweater,Red,L,Nylon,52
+Reebok,T-shirt,Red,L,Wool,196
+Under Armour,Jacket,Green,XXL,Silk,41
+Adidas,Shoes,Green,XXL,Cotton,130
+Under Armour,Jacket,Yellow,XXL,Cotton,11
+New Balance,Jacket,Red,XL,Cotton,75
+Adidas,Sweater,Green,XS,Denim,179
+Under Armour,Jacket,White,M,Cotton,67
+Under Armour,Dress,Black,S,Cotton,45
+New Balance,T-shirt,Black,M,Polyester,112
+Puma,Jeans,Blue,XXL,Silk,129
+Nike,Shoes,White,L,Cotton,21
+Under Armour,Jeans,Blue,XXL,Denim,184
+Reebok,Sweater,White,XS,Cotton,92
+Nike,Shoes,Green,XXL,Wool,101
+Reebok,T-shirt,Yellow,XXL,Silk,138
+New Balance,T-shirt,Yellow,XL,Wool,152
+Under Armour,Jeans,Yellow,XL,Cotton,109
+Adidas,Sweater,White,XS,Silk,63
+New Balance,Dress,Yellow,XS,Silk,150
+Under Armour,T-shirt,Red,XXL,Silk,131
+Puma,Shoes,White,L,Nylon,180
+Adidas,Jeans,White,L,Polyester,94
+Reebok,Dress,Yellow,XS,Polyester,78
+Under Armour,Dress,Blue,L,Cotton,16
+New Balance,Dress,White,XXL,Polyester,57
+New Balance,Shoes,Blue,S,Silk,137
+Under Armour,Jacket,White,XXL,Nylon,141
+Adidas,Dress,Red,XL,Polyester,110
+Under Armour,Dress,Green,L,Polyester,190
+Nike,Shoes,Black,L,Nylon,88
+Reebok,Jeans,Blue,L,Wool,153
+Under Armour,Sweater,Blue,XS,Cotton,158
+Under Armour,Jacket,White,XXL,Silk,196
+Adidas,Jeans,Red,XXL,Denim,33
+Puma,Shoes,Blue,S,Nylon,151
+New Balance,Jeans,Black,XXL,Wool,127
+Reebok,Dress,Red,L,Denim,95
+Nike,Jacket,Yellow,S,Cotton,58
+New Balance,Sweater,Yellow,S,Wool,59
+Nike,Sweater,Yellow,XS,Cotton,79
+Adidas,Jeans,Black,L,Polyester,179
+Nike,Jacket,Green,S,Nylon,173
+Puma,Jeans,Blue,L,Cotton,105
+Under Armour,Shoes,Black,L,Nylon,104
+Reebok,Jeans,Green,XXL,Nylon,10
+New Balance,Sweater,Red,M,Denim,123
+Under Armour,Sweater,Black,XL,Wool,188
+Adidas,Jeans,Red,L,Silk,46
+Under Armour,Sweater,Green,XXL,Wool,172
+Puma,Shoes,Black,XS,Denim,58
+Nike,Sweater,Blue,XXL,Wool,103
+New Balance,Dress,Green,XL,Silk,141
+Reebok,Dress,Blue,XS,Denim,108
+Puma,T-shirt,Red,XS,Silk,52
+New Balance,Shoes,Blue,XS,Wool,122
+Adidas,T-shirt,Black,M,Nylon,159
+Reebok,Jeans,Black,XL,Polyester,137
+Under Armour,Jeans,Yellow,XS,Silk,10
+Adidas,Jeans,White,XXL,Polyester,148
+Under Armour,Jeans,Blue,XXL,Nylon,124
+Puma,Sweater,Yellow,M,Silk,53
+New Balance,T-shirt,Green,XL,Cotton,196
+Puma,Jeans,Red,XXL,Cotton,137
+Adidas,Dress,Green,XS,Wool,33
+Nike,Sweater,White,XS,Polyester,197
+Adidas,T-shirt,Red,L,Cotton,140
+Nike,Shoes,White,XL,Wool,131
+Adidas,Sweater,Blue,XXL,Wool,108
+Adidas,Jacket,Black,S,Wool,72
+Reebok,Jeans,Blue,XS,Denim,173
+Nike,Dress,Red,XS,Nylon,133
+Nike,Shoes,Yellow,XS,Polyester,92
+New Balance,T-shirt,Red,L,Silk,184
+Puma,Sweater,Yellow,XXL,Wool,158
+Under Armour,T-shirt,Green,L,Silk,60
+Puma,Jacket,Black,L,Cotton,165
+Nike,Dress,Green,XL,Nylon,24
+Reebok,Shoes,Blue,M,Denim,51
+Nike,Sweater,White,XL,Silk,68
+New Balance,Shoes,Yellow,M,Wool,46
+Under Armour,Jacket,Yellow,S,Nylon,20
+Under Armour,Dress,Green,XL,Wool,96
+Adidas,Jeans,Black,XXL,Nylon,53
+Reebok,T-shirt,Black,XXL,Silk,114
+New Balance,Jacket,Green,XXL,Silk,21
+Puma,Shoes,Black,XXL,Cotton,12
+Reebok,Shoes,Blue,XS,Denim,61
+Adidas,T-shirt,White,S,Polyester,90
+Nike,T-shirt,Red,XS,Denim,42
+New Balance,Jacket,Yellow,M,Wool,192
+Under Armour,Jacket,White,L,Wool,138
+Nike,Sweater,Yellow,M,Cotton,48
+Nike,Dress,Yellow,XL,Denim,29
+Adidas,Shoes,Red,XXL,Nylon,184
+Puma,Jeans,Blue,S,Denim,52
+Nike,Dress,Green,XXL,Nylon,125
+Under Armour,Shoes,Black,S,Silk,194
+Under Armour,Shoes,Black,S,Silk,198
+Puma,Jeans,Red,M,Wool,87
+Puma,Jeans,Yellow,XL,Polyester,40
+Adidas,Sweater,Black,L,Wool,34
+Reebok,Dress,Green,S,Denim,135
+Under Armour,Jacket,Black,L,Nylon,12
+Nike,T-shirt,Yellow,S,Polyester,13
+Adidas,Shoes,White,S,Polyester,104
+Puma,Sweater,Green,M,Cotton,117
+Nike,Sweater,Yellow,XS,Silk,23
+Reebok,Sweater,Yellow,S,Polyester,122
+New Balance,Jacket,Red,XS,Denim,50
+Puma,Shoes,Yellow,M,Wool,82
+Reebok,T-shirt,Green,S,Nylon,29
+Reebok,Jeans,Red,XXL,Silk,105
+Under Armour,Shoes,Red,XL,Denim,82
+New Balance,Jacket,Green,S,Wool,164
+Under Armour,Dress,Red,S,Nylon,190
+Reebok,Dress,Green,XL,Wool,77
+New Balance,Jacket,Black,XL,Wool,71
+Under Armour,Sweater,Red,S,Silk,24
+New Balance,Jacket,Black,L,Nylon,106
+New Balance,Shoes,Red,M,Wool,14
+Puma,T-shirt,Yellow,XXL,Polyester,149
+Reebok,Shoes,White,L,Denim,96
+Reebok,Jeans,Green,XXL,Denim,131
+Adidas,Jeans,Yellow,S,Silk,119
+Adidas,Jeans,Black,XXL,Cotton,85
+Adidas,Shoes,Green,XS,Polyester,194
+Adidas,Jeans,Green,XL,Nylon,26
+Nike,Sweater,White,XXL,Denim,162
+Adidas,Shoes,Black,XXL,Polyester,167
+Puma,Shoes,Green,XL,Wool,159
+Nike,Dress,Green,XS,Cotton,120
+Puma,Dress,Red,M,Silk,35
+Adidas,Jacket,Blue,XXL,Denim,198
+Reebok,Jeans,Yellow,M,Cotton,131
+Nike,Dress,Blue,S,Denim,128
+Reebok,T-shirt,Green,S,Polyester,127
+Puma,Jacket,White,XL,Cotton,199
+Puma,Sweater,White,XS,Nylon,93
+Nike,Dress,Blue,XS,Denim,171
+New Balance,Jeans,White,L,Wool,114
+Puma,Sweater,White,M,Wool,170
+New Balance,T-shirt,Red,XXL,Nylon,131
+Nike,T-shirt,Black,M,Wool,80
+Puma,T-shirt,Black,S,Silk,41
+Reebok,Sweater,Blue,S,Wool,23
+Under Armour,Shoes,Red,M,Wool,81
+Adidas,Dress,White,L,Denim,194
+Adidas,Dress,White,S,Polyester,162
+Under Armour,Shoes,Black,S,Cotton,89
+Under Armour,Shoes,Blue,XXL,Wool,51
+Nike,Jeans,Blue,L,Polyester,28
+Puma,Shoes,Yellow,XXL,Nylon,50
+Reebok,Sweater,Red,XXL,Denim,192
+Adidas,Dress,Yellow,XL,Silk,21
+Under Armour,Shoes,Blue,M,Nylon,176
+New Balance,Jacket,Yellow,XS,Silk,121
+New Balance,Jeans,White,XS,Polyester,103
+Under Armour,Dress,Yellow,XS,Nylon,139
+Under Armour,Jacket,Blue,XS,Polyester,128
+Puma,Jeans,Black,XS,Silk,54
+New Balance,T-shirt,Green,XL,Wool,135
+Reebok,T-shirt,Black,M,Polyester,34
+Under Armour,Jacket,White,S,Cotton,77
+Reebok,T-shirt,Red,XS,Wool,13
+Adidas,Jacket,Black,L,Wool,45
+Nike,Jeans,White,XS,Cotton,199
+Nike,Dress,Blue,XL,Nylon,53
+Adidas,Jeans,Yellow,M,Cotton,42
+Nike,Jacket,Red,L,Denim,21
+Under Armour,Sweater,Red,XS,Wool,114
+New Balance,Sweater,Red,XL,Nylon,148
+Puma,Shoes,Yellow,XS,Nylon,192
+Nike,Shoes,White,XS,Silk,175
+Adidas,Shoes,Black,L,Cotton,135
+Puma,Jacket,Yellow,XL,Wool,166
+Adidas,T-shirt,White,M,Polyester,121
+Under Armour,Jacket,Green,XL,Silk,12
+Adidas,Shoes,Red,M,Denim,37
+New Balance,Dress,Blue,M,Denim,161
+Under Armour,Jeans,Yellow,M,Polyester,63
+Nike,Jacket,Red,M,Nylon,61
+Puma,Shoes,Yellow,XL,Wool,184
+Reebok,Dress,White,L,Denim,158
+New Balance,Sweater,Yellow,M,Denim,191
+Puma,Jacket,Black,S,Wool,39
+Reebok,T-shirt,Yellow,M,Cotton,77
+Nike,Shoes,White,S,Wool,45
+Adidas,Jacket,Blue,XS,Wool,49
+New Balance,Shoes,Green,M,Cotton,147
+New Balance,Sweater,Green,S,Cotton,83
+Under Armour,Shoes,Yellow,M,Wool,51
+Under Armour,Shoes,Yellow,XL,Wool,161
+Under Armour,Dress,Yellow,L,Silk,141
+Nike,Jacket,Green,XS,Polyester,56
+Nike,Jacket,White,L,Silk,188
+New Balance,Shoes,White,L,Silk,118
+Reebok,T-shirt,Yellow,XL,Nylon,13
+Puma,Jacket,White,XXL,Wool,41
+Puma,Jeans,Black,S,Silk,19
+Adidas,Jacket,Yellow,XS,Wool,148
+Reebok,Dress,Blue,L,Silk,37
+Nike,Jeans,Blue,M,Nylon,183
+Nike,T-shirt,Green,XXL,Wool,177
+Under Armour,Dress,Blue,S,Polyester,71
+Reebok,T-shirt,Green,XS,Nylon,95
+Reebok,Jacket,White,L,Cotton,107
+Nike,Jacket,Blue,XXL,Polyester,54
+Reebok,Jacket,Green,L,Denim,44
+Under Armour,Sweater,Red,S,Denim,172
+Under Armour,Sweater,Blue,M,Silk,98
+New Balance,Sweater,White,L,Wool,43
+Nike,Jeans,Yellow,XL,Wool,143
+Nike,Sweater,Green,XL,Polyester,46
+Reebok,Shoes,Green,XXL,Cotton,10
+New Balance,Shoes,Black,S,Wool,44
+Reebok,Jacket,Red,XS,Denim,136
+New Balance,Jacket,Red,S,Cotton,191
+New Balance,T-shirt,White,XXL,Cotton,90
+New Balance,Dress,White,S,Nylon,146
+Puma,Dress,Yellow,XS,Polyester,199
+Reebok,Jeans,Green,XS,Polyester,139
+Reebok,Dress,Red,XS,Polyester,122
+Adidas,Jeans,Red,M,Denim,45
+New Balance,T-shirt,Black,L,Silk,130
+Nike,Jacket,White,S,Polyester,101
+Reebok,Jacket,Yellow,XL,Wool,178
+Adidas,Jeans,White,XS,Wool,126
+Reebok,Sweater,Yellow,XS,Polyester,46
+Nike,T-shirt,Red,XS,Wool,186
+Puma,Shoes,Blue,L,Nylon,35
+New Balance,Jacket,Black,XL,Silk,77
+New Balance,Jacket,Blue,XXL,Denim,113
+Under Armour,T-shirt,Black,XXL,Silk,45
+Nike,Shoes,Blue,S,Cotton,124
+Nike,Shoes,Yellow,L,Cotton,40
+Adidas,Jeans,White,M,Denim,39
+Adidas,Sweater,White,XXL,Silk,43
+Adidas,Jeans,White,XXL,Polyester,156
+Puma,T-shirt,Green,XL,Polyester,27
+Adidas,Dress,Yellow,XL,Nylon,94
+Nike,Jeans,Red,M,Denim,12
+Adidas,Dress,Blue,S,Denim,79
+Reebok,T-shirt,White,XL,Silk,111
+Reebok,Shoes,Red,XS,Denim,150
+Under Armour,Dress,Yellow,S,Wool,54
+Reebok,Jacket,White,XXL,Wool,127
+Under Armour,Dress,Blue,XXL,Cotton,76
+Reebok,Sweater,Black,L,Denim,121
+Puma,Sweater,Green,M,Silk,101
+Under Armour,T-shirt,White,XS,Cotton,95
+Reebok,Sweater,Yellow,XS,Nylon,177
+Under Armour,Shoes,Yellow,XS,Denim,49
+New Balance,Shoes,Green,L,Cotton,160
+Under Armour,Dress,Yellow,XS,Nylon,168
+Reebok,Jacket,Blue,XL,Silk,155
+Nike,T-shirt,Blue,XS,Nylon,28
+Adidas,Jeans,Yellow,S,Cotton,102
+Under Armour,Jacket,Blue,XL,Denim,53
+New Balance,Jeans,Yellow,XS,Silk,93
+Under Armour,T-shirt,White,XXL,Cotton,187
+Under Armour,Jeans,Yellow,L,Wool,51
+Adidas,Jacket,Black,XS,Denim,103
+New Balance,Sweater,Green,L,Polyester,184
+Under Armour,T-shirt,Blue,XL,Nylon,159
+Under Armour,Sweater,Green,XL,Nylon,99
+Reebok,Sweater,White,XL,Denim,83
+Nike,Sweater,Black,XL,Polyester,38
+New Balance,Jacket,Red,L,Denim,115
+Puma,Shoes,Yellow,S,Nylon,196
+Puma,Dress,Blue,L,Nylon,138
+New Balance,Sweater,Red,L,Denim,73
+Adidas,Dress,Red,XS,Wool,26
+New Balance,T-shirt,Blue,XS,Denim,116
+New Balance,Jeans,White,L,Silk,174
+Puma,Sweater,Red,M,Denim,104
+Nike,Shoes,White,S,Nylon,34
+Puma,Dress,White,XL,Wool,126
+Nike,T-shirt,Yellow,XL,Denim,61
+Nike,Jacket,White,XL,Nylon,146
+Reebok,Shoes,White,XS,Denim,194
+Puma,Shoes,Yellow,XS,Silk,101
+Under Armour,T-shirt,White,S,Wool,103
+New Balance,Jacket,Yellow,XXL,Nylon,133
+Adidas,Jeans,Black,S,Wool,97
+Under Armour,Jeans,Red,L,Denim,170
+Puma,Shoes,Yellow,XS,Denim,157
+Puma,Dress,Black,XL,Polyester,82
+Under Armour,Jacket,Yellow,L,Nylon,97
+Reebok,Jacket,Yellow,M,Cotton,23
+Puma,Shoes,Blue,M,Silk,68
+Reebok,Jeans,Yellow,XXL,Denim,91
+New Balance,Shoes,Yellow,S,Nylon,130
+New Balance,Shoes,Yellow,XS,Denim,126
+Adidas,T-shirt,Yellow,XS,Nylon,193
+Puma,T-shirt,Yellow,M,Cotton,74
+Under Armour,Dress,Green,S,Wool,174
+Reebok,Jeans,Green,S,Silk,35
+Adidas,Jeans,Black,XS,Cotton,42
+Nike,Sweater,White,XXL,Silk,180
+Adidas,Shoes,Black,XS,Nylon,24
+Reebok,Dress,Black,M,Silk,38
+Puma,Jeans,Green,XXL,Wool,30
+Puma,Sweater,White,XL,Polyester,78
+Nike,Jacket,Black,S,Silk,32
+Reebok,Shoes,Blue,XS,Polyester,132
+Puma,Sweater,Red,XXL,Wool,93
+Puma,Jeans,Blue,XXL,Cotton,145
+Reebok,T-shirt,Red,S,Denim,71
+Adidas,Dress,White,XXL,Silk,151
+New Balance,Jacket,Red,XL,Silk,15
+Under Armour,Shoes,Yellow,M,Silk,10
+Adidas,T-shirt,Black,XL,Silk,146
+Reebok,Dress,Red,M,Polyester,191
+New Balance,Jacket,Yellow,S,Wool,149
+Adidas,Jacket,Blue,L,Polyester,14
+Puma,Shoes,Yellow,S,Nylon,177
+New Balance,Shoes,Red,L,Nylon,102
+New Balance,Jeans,Yellow,XXL,Cotton,183
+Reebok,Sweater,Yellow,S,Cotton,36
+Puma,Shoes,Blue,XXL,Silk,84
+Puma,T-shirt,Blue,XL,Nylon,62
+Puma,Shoes,White,M,Polyester,187
+New Balance,Sweater,Red,S,Wool,61
+Adidas,Jeans,White,XXL,Nylon,115
+Under Armour,Jeans,White,XS,Nylon,28
+Nike,T-shirt,Yellow,M,Polyester,127
+Under Armour,Jacket,Green,XL,Nylon,44
+Nike,Dress,Yellow,S,Denim,61
+Reebok,Jacket,Red,XXL,Polyester,168
+Under Armour,Sweater,Green,M,Denim,191
+New Balance,Shoes,White,XS,Polyester,68
+Nike,T-shirt,Yellow,M,Polyester,181
+Puma,Jeans,Blue,S,Polyester,65
+Reebok,Shoes,Red,XS,Nylon,28
+Under Armour,Jacket,Yellow,S,Nylon,183
+Adidas,T-shirt,Blue,L,Wool,97
+Reebok,Dress,Red,M,Cotton,80
+Puma,Shoes,Green,XXL,Denim,63
+Puma,Jeans,Green,XS,Wool,58
+New Balance,Jacket,Red,S,Denim,104
+Puma,Jeans,White,L,Polyester,69
+Nike,Sweater,Blue,S,Silk,90
+Under Armour,Dress,Green,S,Wool,164
+Reebok,Shoes,White,M,Silk,134
+Under Armour,Dress,Red,M,Silk,173
+New Balance,Dress,Yellow,L,Denim,68
+Under Armour,Sweater,Red,XXL,Denim,187
+Nike,Jacket,Red,M,Nylon,116
+Nike,Shoes,Red,XS,Polyester,54
+Puma,Jacket,Blue,XXL,Cotton,23
+Under Armour,Jacket,Black,L,Denim,131
+New Balance,Jacket,White,M,Cotton,80
+Nike,Jacket,Yellow,XXL,Cotton,48
+New Balance,T-shirt,Blue,XL,Cotton,177
+Puma,Sweater,Red,XS,Cotton,146
+Reebok,Dress,Yellow,S,Silk,23
+Nike,Jacket,Blue,XS,Silk,145
+Nike,Jacket,Green,XS,Silk,32
+Reebok,Dress,Yellow,XXL,Polyester,89
+Reebok,Dress,White,XS,Wool,18
+Nike,T-shirt,Black,XL,Denim,16
+Reebok,Sweater,Black,XS,Nylon,70
+Reebok,Jeans,Yellow,XL,Silk,154
+Puma,Shoes,Yellow,XL,Polyester,66
+Nike,T-shirt,White,M,Polyester,124
+Reebok,Jeans,Red,XL,Denim,161
+Puma,T-shirt,Red,XL,Nylon,34
+Nike,Sweater,White,XXL,Cotton,14
+Nike,Sweater,Red,XXL,Polyester,110
+Nike,Jeans,Yellow,L,Wool,59
+Reebok,Jacket,Black,XL,Wool,97
+Reebok,Shoes,Green,XXL,Wool,40
+Under Armour,Jacket,Black,XS,Polyester,64
+Puma,Jacket,Red,S,Polyester,163
+Under Armour,Jeans,Blue,XL,Denim,30
+New Balance,Jacket,Black,XL,Polyester,107
+Puma,Dress,Red,M,Polyester,111
+Adidas,Dress,White,XXL,Wool,195
+Under Armour,Sweater,Yellow,M,Denim,161
+New Balance,Jeans,White,XS,Nylon,165
+Nike,Jacket,Green,L,Nylon,39
+New Balance,Dress,Blue,XXL,Polyester,171
+Adidas,Jacket,Black,XL,Wool,125
+Adidas,Shoes,Red,S,Denim,63
+Adidas,T-shirt,Black,XL,Nylon,129
+Puma,Jacket,Green,XXL,Wool,189
+Reebok,Sweater,Blue,L,Polyester,96
+Reebok,T-shirt,Black,XXL,Polyester,17
+Adidas,Jeans,Green,L,Silk,115
+Reebok,Jacket,Blue,XXL,Polyester,147
+New Balance,Jacket,Black,S,Wool,192
+Nike,T-shirt,Red,XS,Polyester,138
+Reebok,Sweater,Green,XL,Cotton,93
+Puma,Sweater,Red,XL,Silk,130
+Adidas,Sweater,Green,M,Polyester,174
+Under Armour,Shoes,Red,XS,Polyester,158
+Nike,Jeans,White,S,Silk,127
+Under Armour,T-shirt,Red,XL,Cotton,13
+Adidas,Dress,White,XXL,Denim,136
+New Balance,Jeans,Black,XXL,Silk,52
+Adidas,Sweater,Black,XXL,Wool,75
+Under Armour,Sweater,Red,L,Wool,30
+Adidas,Jacket,Green,XS,Cotton,46
+Adidas,Shoes,Black,L,Polyester,78
+Adidas,Shoes,Black,XXL,Silk,122
+Reebok,Jeans,Red,L,Nylon,185
+New Balance,T-shirt,Green,XL,Cotton,148
+Reebok,Sweater,Red,S,Silk,114
+Puma,Dress,Yellow,S,Silk,101
+Under Armour,Jacket,Red,S,Cotton,53
+Nike,T-shirt,Green,XL,Nylon,73
+Under Armour,T-shirt,Black,XXL,Wool,169
+Under Armour,Shoes,Black,M,Denim,158
+Puma,T-shirt,Blue,S,Denim,19
+New Balance,Shoes,Red,L,Wool,198
+Reebok,Shoes,Black,L,Polyester,101
+Nike,Shoes,Yellow,XXL,Denim,121
+Nike,Jacket,Black,M,Denim,173
+Puma,Dress,White,XS,Polyester,93
+Adidas,Sweater,White,XL,Denim,86
+Under Armour,Jacket,Yellow,XL,Wool,28
+Under Armour,Jacket,Black,L,Nylon,123
+Nike,Dress,Black,S,Cotton,84
+Under Armour,T-shirt,Green,S,Silk,181
+Nike,Sweater,Black,M,Polyester,141
+Reebok,Jeans,Yellow,XS,Wool,150
+Reebok,T-shirt,Green,S,Denim,68
+Nike,Shoes,Black,S,Silk,139
+Puma,T-shirt,Green,L,Cotton,123
+Under Armour,Dress,White,XXL,Cotton,138
+New Balance,Jeans,White,S,Polyester,49
+New Balance,Sweater,Black,XL,Polyester,34
+Nike,Sweater,Blue,S,Denim,196
+Puma,Sweater,White,S,Nylon,46
+New Balance,Dress,Green,XS,Cotton,109
+New Balance,Shoes,Yellow,XL,Wool,79
+Reebok,Jeans,Blue,M,Denim,144
+Under Armour,Jeans,Black,XL,Cotton,13
+Under Armour,T-shirt,Black,M,Denim,131
+Reebok,Shoes,Blue,XS,Cotton,178
+Adidas,Jacket,Red,XS,Nylon,198
+Nike,Jeans,Blue,XXL,Denim,171
+Puma,Sweater,Yellow,XXL,Denim,38
+Puma,Sweater,Black,L,Cotton,78
+New Balance,Jacket,Green,XS,Denim,36
+New Balance,Jacket,White,S,Wool,119
+Adidas,T-shirt,Red,XL,Nylon,189
+Puma,T-shirt,Green,M,Cotton,191
+Puma,Dress,Blue,XL,Polyester,171
+Under Armour,Shoes,Black,XL,Silk,145
+Nike,Sweater,Yellow,XL,Cotton,135
+Under Armour,Dress,Blue,XL,Wool,104
+Reebok,Sweater,Blue,XL,Wool,82
+New Balance,Dress,Green,XXL,Polyester,94
+Under Armour,T-shirt,Green,XS,Cotton,145
+Adidas,Jeans,Black,XXL,Cotton,118
+Nike,Shoes,Green,XL,Cotton,77
+Adidas,Jacket,Red,XL,Wool,112
+Nike,Sweater,Black,M,Nylon,94
+Nike,Shoes,Yellow,XL,Nylon,81
+Nike,T-shirt,Red,XL,Polyester,93
+Puma,T-shirt,Blue,XXL,Wool,10
+New Balance,T-shirt,White,XL,Silk,143
+Under Armour,Dress,Green,S,Denim,101
+Puma,Shoes,Yellow,XXL,Polyester,117
+New Balance,Jacket,Black,S,Nylon,168
+Puma,T-shirt,Green,S,Silk,17
+Under Armour,Dress,Red,XL,Polyester,159
+Adidas,T-shirt,Blue,XS,Polyester,146
+New Balance,Dress,Blue,S,Wool,181
+Nike,Shoes,Green,L,Cotton,56
+Adidas,Jeans,Black,S,Nylon,10
+Adidas,Dress,Black,M,Nylon,114
+New Balance,Sweater,Green,XS,Cotton,189
+Reebok,Jacket,White,XXL,Silk,48
+New Balance,Dress,Green,M,Silk,99
+Puma,Jacket,Green,M,Silk,84
+Nike,Dress,White,S,Cotton,133
+Under Armour,Jacket,Yellow,M,Wool,97
+Adidas,Shoes,Green,M,Wool,106
+Reebok,Jeans,Yellow,XS,Denim,93
+Reebok,Sweater,Red,S,Polyester,36
+Adidas,Sweater,Green,XS,Nylon,42
+New Balance,Sweater,Green,XL,Cotton,125
+New Balance,Dress,Black,S,Wool,107
+New Balance,Sweater,Green,M,Nylon,182
+Adidas,T-shirt,White,XXL,Denim,69
+New Balance,T-shirt,Yellow,S,Silk,67
+Reebok,Sweater,White,XXL,Cotton,188
+Puma,Shoes,Yellow,S,Nylon,183
+New Balance,Sweater,Green,XL,Wool,142
+Reebok,Dress,Yellow,XS,Silk,195
+Reebok,Sweater,Green,S,Denim,103
+Reebok,Jacket,White,XXL,Polyester,101
+Puma,Shoes,Red,S,Polyester,155
+Puma,Jeans,Yellow,XXL,Polyester,173
+New Balance,Dress,Yellow,L,Wool,158
+Puma,Dress,Yellow,S,Cotton,183
+Under Armour,T-shirt,Yellow,XS,Denim,195
+Under Armour,Dress,Green,L,Denim,129
+Under Armour,Dress,Green,XXL,Denim,174
+Under Armour,Jeans,Red,M,Nylon,115
+Nike,Shoes,Green,M,Wool,14
+Nike,Jacket,White,S,Nylon,168
+New Balance,Jeans,Yellow,XS,Wool,119
+Nike,Shoes,Red,S,Silk,97
+Adidas,Shoes,Blue,M,Wool,173
+Nike,Shoes,White,S,Polyester,83
+New Balance,Jacket,Black,S,Cotton,193
+Adidas,T-shirt,Red,M,Nylon,36
+Reebok,Shoes,Black,M,Silk,128
+Nike,Jeans,Yellow,L,Polyester,32
+Puma,Jeans,Blue,L,Denim,108
+New Balance,Jeans,Black,XS,Silk,100
+Under Armour,Sweater,White,XXL,Nylon,61
+Adidas,Sweater,Red,XXL,Wool,56
+New Balance,Shoes,Green,XS,Cotton,71
+Reebok,Jeans,White,M,Polyester,198
+Nike,Dress,Black,XS,Cotton,57
+Under Armour,T-shirt,Green,XS,Nylon,114
+Puma,Dress,Black,L,Denim,138
+Reebok,T-shirt,Yellow,M,Silk,148
+New Balance,Shoes,Green,L,Cotton,151
+Puma,T-shirt,Blue,S,Silk,81
+Nike,Sweater,White,M,Cotton,104
+Adidas,T-shirt,Red,XL,Nylon,16
+Reebok,Jeans,Blue,XS,Denim,183
+Nike,Jeans,Black,XS,Silk,168
+Nike,Shoes,Black,M,Cotton,25
+Adidas,Shoes,Blue,XL,Cotton,179
+Adidas,T-shirt,Black,XXL,Nylon,176
+Nike,Sweater,Yellow,M,Silk,63
+Adidas,Dress,Red,XS,Cotton,181
+Reebok,Sweater,White,XXL,Denim,92
+Adidas,Sweater,Yellow,XS,Polyester,145
+Reebok,Dress,Green,M,Nylon,75
+Nike,Jeans,Red,XXL,Cotton,179
+Under Armour,Shoes,Red,S,Nylon,76
+Nike,Jacket,Black,L,Wool,124
+New Balance,Sweater,White,M,Cotton,102
+Nike,Jeans,Green,S,Polyester,88
+Nike,T-shirt,White,XL,Denim,110
+Reebok,Sweater,Blue,XS,Wool,169
+Under Armour,Sweater,White,XS,Nylon,188
+Adidas,T-shirt,Green,M,Denim,184
+Puma,Jacket,Blue,XL,Silk,103
+Reebok,Jacket,White,M,Silk,124
+Nike,Dress,White,L,Nylon,171
+New Balance,Shoes,Green,M,Silk,22
+Nike,T-shirt,Green,XS,Silk,90
+Puma,Jeans,Blue,XS,Polyester,76
+Adidas,Jeans,Yellow,XXL,Wool,135
+Under Armour,Jacket,Black,S,Cotton,148
+New Balance,Dress,White,L,Wool,122
+Nike,Shoes,Black,XXL,Nylon,165
+Puma,Dress,Black,XXL,Polyester,194
+New Balance,Jeans,Blue,XXL,Denim,130
+New Balance,Shoes,White,S,Nylon,75
+Nike,Shoes,White,L,Wool,98
+Puma,Dress,Black,XS,Polyester,44
+Adidas,Shoes,White,XXL,Polyester,13
+Puma,Jacket,White,XXL,Wool,198
+Nike,Jacket,Red,XXL,Denim,175
+Reebok,Dress,Green,M,Cotton,181
+New Balance,Jacket,Blue,XS,Denim,98
+Adidas,Shoes,Blue,S,Denim,80
+Puma,Jacket,Red,S,Wool,158
+Reebok,Dress,Green,M,Polyester,144
+Under Armour,Jacket,Black,XXL,Polyester,38
+Under Armour,T-shirt,Blue,XL,Cotton,125
+Puma,Jacket,Blue,XS,Cotton,144
+Adidas,Sweater,Blue,S,Nylon,76
+Nike,Jeans,Blue,XL,Nylon,102
+Under Armour,T-shirt,Blue,XL,Polyester,112
+Reebok,Dress,Blue,XS,Nylon,111
+Reebok,Jeans,Red,S,Cotton,133
+Reebok,Sweater,Blue,XL,Denim,119
+Under Armour,Jeans,Yellow,S,Nylon,83
+Puma,Jacket,Green,XL,Nylon,110
+New Balance,Jeans,Green,XS,Polyester,192
+Under Armour,Dress,White,XS,Wool,87
+Adidas,Jacket,Black,S,Wool,159
+Adidas,Jacket,White,XS,Silk,169
+Puma,Sweater,Blue,L,Silk,91
+Reebok,Shoes,White,XS,Denim,45
+Under Armour,Jeans,Blue,M,Polyester,146
+Puma,Shoes,Red,XS,Polyester,35
+New Balance,Sweater,Yellow,S,Denim,31
+Nike,Jacket,Green,XXL,Wool,183
+Adidas,Jacket,Green,XL,Polyester,154
+Nike,Sweater,Black,L,Cotton,163
+Nike,Jacket,Blue,S,Polyester,129
+New Balance,Shoes,Red,S,Nylon,175
+Under Armour,Shoes,Black,XL,Polyester,137
+New Balance,Jeans,Black,XL,Wool,139
+Puma,T-shirt,Black,M,Cotton,143
+Nike,Shoes,Red,S,Silk,150
+Nike,Sweater,Red,L,Cotton,100
+Reebok,Dress,Blue,M,Cotton,84
+Reebok,T-shirt,Red,M,Nylon,192
+Nike,Dress,Black,L,Cotton,88
+Under Armour,Jacket,Blue,XL,Polyester,72
+Nike,T-shirt,Black,XL,Wool,82
+Adidas,Jacket,Black,S,Cotton,55
+Puma,Jacket,Green,M,Cotton,143
+Under Armour,Shoes,Red,L,Polyester,57
+New Balance,Sweater,White,L,Denim,197
+Reebok,Dress,Green,L,Cotton,180
+New Balance,Shoes,Green,M,Silk,148
+Puma,Jeans,White,XS,Cotton,67
+Adidas,Sweater,Black,XS,Cotton,99
+Under Armour,Sweater,White,S,Cotton,141
+Under Armour,Dress,Red,XXL,Silk,135
+Under Armour,Sweater,Black,M,Silk,92
+Reebok,Dress,Yellow,XXL,Silk,196
+New Balance,Sweater,Black,M,Silk,142
+Puma,T-shirt,Black,XS,Cotton,27
+Adidas,Dress,Red,XL,Polyester,104
+New Balance,Jeans,Black,XS,Wool,162
+Nike,Shoes,White,XXL,Wool,141
+Nike,Sweater,Black,M,Cotton,79
+Nike,Shoes,Green,XXL,Nylon,178
+Puma,T-shirt,White,L,Wool,174
+Under Armour,Shoes,White,M,Silk,68
+Adidas,Jeans,Black,S,Nylon,187
+New Balance,Sweater,Red,XS,Polyester,193
+Reebok,Sweater,Green,S,Denim,162
+New Balance,Shoes,White,XS,Nylon,171
+Under Armour,Shoes,Blue,XS,Polyester,156
+Reebok,Shoes,White,S,Nylon,107
+Under Armour,Jacket,Blue,S,Wool,145
+Nike,Sweater,Black,L,Silk,191
+Under Armour,Jeans,Green,XXL,Polyester,56
+Nike,Jeans,Yellow,S,Polyester,137
+Nike,T-shirt,White,XL,Nylon,171
+Adidas,Jacket,Blue,M,Silk,91
+Adidas,T-shirt,White,XXL,Cotton,167
+New Balance,T-shirt,Green,L,Polyester,22
+Reebok,Sweater,White,XS,Silk,128
+Reebok,T-shirt,Blue,XXL,Cotton,56
+Puma,Dress,White,XL,Polyester,128
+Puma,Jacket,Green,S,Silk,42
+Reebok,Sweater,Black,S,Denim,44
+Adidas,Dress,Green,XL,Polyester,125
+Nike,Jeans,Green,M,Wool,97
+Puma,Jacket,Red,XL,Silk,134
+Adidas,Jeans,Black,XS,Nylon,163
+Nike,Shoes,White,XXL,Nylon,184
+New Balance,Jeans,Yellow,XL,Denim,117
+Puma,Sweater,White,XXL,Cotton,62
+Adidas,Dress,White,L,Wool,120
+Reebok,Jacket,Blue,XL,Denim,74
+Adidas,Sweater,Green,XL,Cotton,86
+New Balance,T-shirt,Green,XS,Nylon,128
+Puma,Jacket,Black,XS,Silk,83
+Nike,Sweater,Red,M,Denim,156
+Puma,Jacket,White,XS,Wool,14
+Under Armour,Jacket,Blue,XS,Polyester,17
+New Balance,Sweater,Yellow,XS,Denim,141
+Reebok,Jeans,Green,XL,Denim,58
+Under Armour,Jeans,Red,XL,Polyester,86
+Puma,Sweater,Blue,XS,Silk,47
+Puma,Jacket,Blue,S,Nylon,126
+Adidas,Jeans,Yellow,XS,Denim,58
+Adidas,Dress,Black,XS,Denim,119
+Under Armour,T-shirt,White,XXL,Cotton,189
+New Balance,T-shirt,Blue,M,Nylon,59
+Adidas,Dress,Blue,XS,Silk,81
+Adidas,Dress,White,XS,Nylon,100
+Under Armour,Dress,Yellow,XXL,Cotton,187
+Adidas,Jacket,White,M,Cotton,39
+Under Armour,Jeans,Green,XS,Wool,13
+Nike,Dress,Black,XS,Denim,84
+Under Armour,Sweater,Yellow,L,Wool,94
+Adidas,Shoes,Green,XXL,Wool,75
+New Balance,T-shirt,Yellow,M,Denim,129
+Reebok,T-shirt,White,M,Nylon,30
+Reebok,Dress,White,L,Denim,52
+Under Armour,Jeans,Yellow,M,Polyester,38
+New Balance,Dress,White,XXL,Nylon,164
+Reebok,Sweater,Yellow,S,Denim,97
+New Balance,Dress,Red,XL,Cotton,190
+Reebok,Jacket,White,XL,Wool,58
+Adidas,Dress,Yellow,XXL,Silk,112
+Nike,Jacket,White,M,Polyester,19
+Nike,Jeans,Green,XL,Nylon,12
+Adidas,Shoes,Green,XS,Polyester,126
+New Balance,Jeans,Blue,XS,Silk,118
+Nike,Sweater,White,S,Denim,99
+Under Armour,Jeans,Red,L,Wool,134
+Nike,Jacket,Green,XXL,Wool,127
+Reebok,Jeans,Red,XL,Cotton,110
+Adidas,Jacket,Blue,S,Denim,100
+Puma,Sweater,Red,XL,Denim,78
+Reebok,Jacket,Green,XS,Nylon,115
+Reebok,Dress,Black,S,Cotton,20
+Under Armour,Jeans,Red,XXL,Polyester,22
+Puma,T-shirt,White,S,Silk,114
+Under Armour,Dress,Red,L,Denim,175
+Adidas,Shoes,Black,XS,Silk,177
+Puma,Jacket,Yellow,S,Denim,170
+New Balance,Shoes,Black,XS,Cotton,132
+Adidas,Shoes,Yellow,XS,Cotton,43
+Nike,Shoes,Black,M,Polyester,164
+Reebok,Dress,Red,M,Wool,109
+Nike,Dress,Yellow,L,Silk,60
+Adidas,Dress,Yellow,XS,Denim,98
+Under Armour,Dress,Black,M,Denim,30
+New Balance,Jacket,Red,XXL,Cotton,166
+Reebok,Jeans,Red,XXL,Denim,82
+Reebok,Jeans,Red,XL,Silk,28
+Puma,Dress,Yellow,XS,Wool,163
+New Balance,T-shirt,Yellow,S,Silk,162
+Nike,Jeans,White,XS,Wool,49
+New Balance,Jacket,White,S,Wool,133
+Adidas,Jacket,Yellow,L,Nylon,38
+Adidas,Jeans,Red,M,Polyester,162
+Adidas,Jacket,Blue,XL,Silk,156
+Adidas,Jacket,Blue,M,Wool,182
+Under Armour,Sweater,Yellow,XXL,Silk,55
+New Balance,Jacket,Yellow,S,Cotton,64
+Adidas,Jeans,Red,XXL,Polyester,10
+Under Armour,Jeans,Red,L,Polyester,148
+New Balance,Shoes,Blue,S,Cotton,144
+Under Armour,Shoes,Blue,XXL,Cotton,109
+Puma,T-shirt,Black,L,Silk,195
+Puma,Dress,Red,XXL,Nylon,157
+Nike,Jeans,Green,L,Silk,172
+Adidas,Jacket,Black,XXL,Silk,60
+Under Armour,Shoes,Red,XL,Wool,112
+Puma,Shoes,Green,XL,Silk,30
+Adidas,T-shirt,Green,M,Polyester,181
+Puma,Sweater,Yellow,XL,Denim,128
+Puma,Shoes,Yellow,S,Nylon,138
+Nike,T-shirt,Green,S,Cotton,119
+Under Armour,Jacket,Green,XXL,Polyester,115
+Under Armour,Jeans,White,XXL,Cotton,150
+New Balance,T-shirt,Black,L,Wool,25
+New Balance,Jacket,Green,M,Silk,128
+Puma,Sweater,Yellow,XXL,Wool,43
+Adidas,Shoes,Yellow,M,Cotton,161
+New Balance,T-shirt,Yellow,M,Silk,150
+Under Armour,Jacket,Blue,L,Denim,143
+New Balance,Dress,Black,XL,Denim,48
+Nike,Jeans,Black,XS,Silk,11
+Under Armour,Jacket,Black,S,Wool,20
+Nike,Dress,White,L,Cotton,16
+Adidas,Jeans,Blue,S,Nylon,135
+New Balance,Shoes,Black,XL,Wool,16
+Puma,Jeans,Blue,XL,Polyester,112
+Adidas,Jeans,Blue,L,Polyester,176
+New Balance,Dress,Green,L,Polyester,85
+New Balance,T-shirt,Blue,XS,Cotton,124
+Adidas,Shoes,Red,M,Polyester,95
+Nike,Dress,Red,XS,Polyester,136
+Adidas,Dress,White,L,Silk,124
+Puma,Jacket,White,XS,Silk,188
+Under Armour,Jacket,Black,XXL,Silk,61
+Nike,Sweater,Red,XXL,Cotton,12
+New Balance,Dress,White,XXL,Polyester,86
+Nike,Dress,White,S,Wool,167
+Adidas,Sweater,Green,XL,Polyester,19
+Adidas,Dress,Red,XL,Silk,125
+New Balance,Dress,Blue,XS,Denim,143
+Adidas,Sweater,White,XXL,Polyester,126
+Reebok,Sweater,White,M,Silk,191
+Puma,Sweater,Red,L,Polyester,53
+Adidas,Jeans,Yellow,XL,Denim,89
+Reebok,Jacket,White,XS,Cotton,72
+Nike,Sweater,Green,L,Nylon,86
+Puma,Jeans,Black,XL,Nylon,57
+Reebok,Shoes,Yellow,XXL,Polyester,86
+Nike,Jacket,Green,XS,Wool,159
+Under Armour,Sweater,Green,L,Polyester,130
+Under Armour,Shoes,Green,M,Denim,28
+Puma,Dress,Red,XS,Polyester,99
+Reebok,Dress,Red,XS,Nylon,23
+Reebok,Jacket,Yellow,XS,Polyester,102
+Nike,T-shirt,Yellow,XL,Polyester,115
+Under Armour,Jacket,Blue,M,Silk,16
+Under Armour,Jeans,Blue,XXL,Polyester,110
+Adidas,Dress,Blue,M,Silk,58
+New Balance,Shoes,Green,XXL,Cotton,50
+New Balance,Shoes,Black,XS,Wool,164
+New Balance,Dress,Blue,XXL,Polyester,168
+Reebok,Sweater,Yellow,XS,Silk,143
+New Balance,Jeans,Black,M,Denim,153
+Puma,T-shirt,Blue,L,Denim,47
+Under Armour,Jeans,Red,XS,Silk,69
+Puma,Jeans,White,M,Denim,123
+New Balance,Jeans,Blue,XL,Denim,105
+Puma,Jeans,Blue,M,Polyester,106
+Adidas,T-shirt,Green,L,Nylon,42
+Under Armour,Jeans,Green,XS,Nylon,72
+Puma,T-shirt,Blue,XXL,Polyester,148
+Under Armour,Jacket,Green,M,Polyester,150
+Adidas,Shoes,Red,S,Nylon,103
+New Balance,Jeans,Black,XS,Polyester,74
+Nike,Sweater,Black,XS,Polyester,167
+Nike,T-shirt,Green,S,Nylon,100
+Nike,Shoes,Blue,XS,Silk,160
+Puma,Shoes,Red,XL,Cotton,157
+Puma,T-shirt,Red,XL,Polyester,143
+Puma,Shoes,Yellow,L,Nylon,46
+Under Armour,Jeans,Green,XXL,Denim,93
+Reebok,Sweater,Yellow,L,Polyester,137
+Under Armour,Shoes,Green,M,Polyester,15
+Nike,Shoes,Yellow,M,Silk,102
+Reebok,Sweater,White,XL,Cotton,164
+Adidas,Jeans,Blue,XS,Polyester,93
+Reebok,Sweater,Green,XXL,Cotton,150
+Adidas,T-shirt,Black,XXL,Nylon,145
+Puma,Shoes,Green,S,Nylon,190
+Nike,Jeans,Black,XXL,Denim,90
+Puma,Jeans,Yellow,XL,Wool,167
+Under Armour,Jeans,Yellow,L,Silk,10
+New Balance,Jacket,Blue,L,Nylon,84
+Puma,Jeans,Black,L,Denim,141
+Puma,Dress,Blue,XXL,Polyester,71
+Reebok,Dress,Red,XXL,Polyester,77
+Adidas,T-shirt,Black,S,Nylon,154
+Nike,Jacket,Green,L,Wool,122
+Puma,Jacket,Black,L,Denim,94
+Puma,Sweater,Yellow,M,Silk,126
+Adidas,Jeans,White,XS,Denim,66
+Under Armour,Dress,White,XXL,Wool,72
+Under Armour,Jacket,Blue,XS,Cotton,194
+Reebok,Dress,Red,S,Silk,58
+Adidas,Dress,Blue,L,Silk,155
+Puma,Jeans,Red,M,Polyester,127
+Under Armour,Dress,White,XS,Silk,195
+Under Armour,T-shirt,Yellow,S,Silk,19
+Nike,T-shirt,White,M,Polyester,89
+Nike,Jacket,White,L,Silk,171
+New Balance,Jacket,Blue,S,Wool,142
+Reebok,Sweater,Green,XXL,Silk,154
+Under Armour,Dress,Green,M,Nylon,81
+Under Armour,Jacket,Blue,XS,Silk,72
+Adidas,Jeans,White,XL,Silk,33
+Nike,Jacket,White,XS,Cotton,101
+Nike,T-shirt,Blue,XL,Cotton,120
+Under Armour,Dress,Red,S,Denim,17
+Reebok,T-shirt,Blue,M,Wool,32
+Under Armour,Jacket,White,M,Cotton,108
+Puma,Jacket,White,M,Denim,168
+Nike,T-shirt,Red,L,Wool,90
+Nike,Shoes,Blue,XS,Denim,165
+Adidas,Sweater,White,XL,Cotton,57
+Reebok,Sweater,Blue,L,Cotton,124
+Adidas,Jacket,Black,S,Polyester,21
+Nike,Sweater,Red,S,Wool,88
+New Balance,T-shirt,Yellow,XXL,Denim,40
+Reebok,Dress,Green,XXL,Silk,100
+Under Armour,Jacket,Red,L,Cotton,44
+Under Armour,Jeans,Blue,XXL,Wool,64
+New Balance,Shoes,White,XL,Silk,91
+Reebok,Sweater,Green,S,Cotton,173
+Puma,Sweater,Blue,XXL,Nylon,81
+Under Armour,Jeans,Yellow,XXL,Silk,119
+Adidas,Shoes,Red,XXL,Cotton,69
+Under Armour,Jeans,White,XS,Cotton,122
+Under Armour,Shoes,White,S,Denim,175
+Puma,T-shirt,Red,XL,Silk,78
+Under Armour,Shoes,Blue,XXL,Wool,191
+Adidas,T-shirt,Blue,XS,Polyester,23
+Adidas,Sweater,Red,L,Denim,111
+New Balance,Shoes,Blue,XL,Cotton,29
+Adidas,Dress,Red,XS,Wool,117
+New Balance,T-shirt,Black,XXL,Nylon,18
+Nike,Shoes,Yellow,XS,Denim,106
+Under Armour,T-shirt,White,XS,Silk,134
+Under Armour,Jacket,Red,XL,Wool,110
+Reebok,Shoes,White,XXL,Wool,139
+Puma,Jacket,Yellow,M,Wool,167
+Nike,T-shirt,Yellow,S,Polyester,143
+New Balance,Dress,Black,M,Polyester,178
+Under Armour,Sweater,Red,XXL,Denim,160
+Adidas,Jeans,Blue,S,Denim,40
+Nike,Shoes,Blue,XL,Nylon,29
+Nike,T-shirt,Red,S,Cotton,14
+New Balance,Dress,Red,XXL,Polyester,158
+Adidas,Dress,Yellow,XL,Denim,116
+Reebok,Dress,Yellow,XS,Polyester,84
+New Balance,T-shirt,White,L,Polyester,133
+Under Armour,T-shirt,Green,M,Polyester,70
+Puma,Shoes,Yellow,M,Denim,103
+Reebok,Shoes,Red,XL,Denim,179
+Puma,Dress,Green,S,Nylon,50
+New Balance,Dress,Yellow,S,Wool,198
+Puma,Shoes,Blue,L,Silk,189
+Under Armour,T-shirt,Yellow,XS,Silk,50
+Nike,Sweater,Yellow,S,Wool,69
+Adidas,T-shirt,Yellow,S,Cotton,39
+Puma,Jacket,Yellow,XXL,Nylon,104
+Reebok,Dress,Black,XS,Nylon,175
+Under Armour,Sweater,Red,L,Polyester,136
+Under Armour,Jeans,Green,S,Wool,26
+New Balance,T-shirt,Red,XL,Polyester,109
+Reebok,Dress,Yellow,XS,Silk,177
+Puma,T-shirt,Blue,S,Silk,167
+Puma,Jeans,Green,L,Wool,75
+Puma,T-shirt,White,M,Silk,33
+Reebok,Sweater,Red,XL,Denim,138
+Puma,Jeans,White,XXL,Nylon,97
+Reebok,Jacket,Blue,XL,Polyester,47
+Under Armour,Jacket,Yellow,XL,Nylon,121
+Reebok,Dress,Blue,XL,Wool,164
+Adidas,Jacket,Red,M,Wool,99
+Nike,T-shirt,Green,M,Silk,144
+Nike,Sweater,Red,M,Cotton,111
+Adidas,Jacket,Blue,M,Denim,51
+Reebok,Dress,Blue,L,Cotton,155
+New Balance,T-shirt,Red,S,Wool,122
+Nike,Dress,White,M,Nylon,53
+Adidas,Dress,White,M,Denim,120
+New Balance,Sweater,Red,L,Polyester,128
+Puma,Shoes,Red,XS,Cotton,157
+Adidas,Sweater,Blue,L,Cotton,32
+Nike,Dress,Black,XS,Nylon,119
+Reebok,Dress,Red,XL,Wool,149
+Reebok,Jacket,Yellow,L,Silk,21
+Reebok,Jacket,Blue,XL,Denim,171
+Nike,Jeans,Black,XS,Nylon,145
+Puma,Shoes,Green,L,Wool,129
+Reebok,Sweater,Black,XS,Denim,36
+New Balance,Shoes,Green,XS,Denim,58
+Under Armour,Jacket,Black,XL,Polyester,192
+Puma,Dress,Blue,XS,Wool,106
+New Balance,Jacket,Yellow,S,Silk,110
+Adidas,Jeans,Blue,M,Wool,92
+Under Armour,Jacket,Black,L,Wool,97
+Puma,Dress,Black,XL,Nylon,159
+Nike,Jacket,Green,M,Silk,12
+Under Armour,Jacket,Red,XL,Silk,18
+Puma,Sweater,Blue,S,Cotton,20
+Puma,Sweater,Green,XXL,Cotton,15
+New Balance,Jeans,Black,M,Polyester,48
+Puma,Jeans,Black,L,Polyester,176
+Puma,Jacket,Red,XXL,Silk,110
+Reebok,Sweater,Blue,XS,Denim,127
+Under Armour,Sweater,Black,XXL,Denim,69
+New Balance,Jacket,Yellow,XS,Wool,174
